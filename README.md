@@ -4,9 +4,9 @@
 
 Aplicativo web didáctico de **Fundamentos de Programación en Java**.
 
-> Proyecto Integrador 2026 · Algoritmos y Lógica de Programación
-> Universidad Técnica de Ambato · FISEI · Primer semestre
-> Docente: Ing. José Caiza · Periodo: julio–diciembre 2026
+> Betancourt Steven
+> Oogonaga Isaac
+> Terán Julio 
 
 ![Estado](https://img.shields.io/badge/estado-Hito%201%3A%20dise%C3%B1o-yellow)
 ![Java](https://img.shields.io/badge/Java-21%20LTS-orange)
