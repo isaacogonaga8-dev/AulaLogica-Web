@@ -38,10 +38,10 @@ Aplicativo web didáctico de **Fundamentos de Programación en Java**.
 
 | Integrante | Rol |
 |---|---|
-| _Nombre 1_ | Coordinación e integración |
-| _Nombre 2_ | Análisis y contenido |
-| _Nombre 3_ | Desarrollo Java/web |
-| _Nombre 4_ | Pruebas y documentación |
+| _Betancourt Steven _ | Coordinación e integración |
+| _Betancourt Steven _ | Análisis y contenido |
+| _Teran Julio_ | Desarrollo Java/web |
+| _Ogonaga Isaac_ | Pruebas y documentación |
 
 > Los roles rotan cada dos semanas.
 
